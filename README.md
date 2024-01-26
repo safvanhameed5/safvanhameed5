@@ -1,16 +1,31 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**safvanhameed5/safvanhameed5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey you! 👋
+Welcome to my GitHub page! 🎉
 
-Here are some ideas to get you started:
+<b>I'm Safvan!</b>
+  
+<i>Enthusiastic about turning data into smart decisions and building powerful software for fast-paced systems.</i>
+  
+# Connect with me 
+| [LinkedIn](https://www.linkedin.com/in/safvanhameed) 🎁 | [Email](safvanhameed5@gmail.com) 📧 | [Instagram](https://www.instagram.com/_safvan.hameed7) 📸 |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills and Expertise
+## Software Development | Python Full Stack Development
+
+# Languages
+| [Python](https://www.python.org/) 🐍 | [C](https://en.wikipedia.org/wiki/C_(programming_language)) 🅲 | [C++](https://en.wikipedia.org/wiki/C%2B%2B) 🅲🅲 |
+
+## ML
+| **NumPy** 🧮 | **Pandas** 🐼 | **Matplotlib** | **TensorFlow** 🧠 | **OpenCV** 👀 | **PIL (Python Imaging Library)** |
+
+## Full Stack Development
+| **Python**  | **Django**  | **MongoDB** | **HTML CSS**  | **ReactJs** 👀 | 
+
+
+## IDEs
+| [PyCharm](https://jupyterlab.readthedocs.io/en/stable/) 🖥️ | [Visual Studio Code (VSC)](https://code.visualstudio.com/) 💻 |
+
+### <i>Thriving in the fast lane: Ready for challenges in high-pressure environments.</i>
+
+</div>
