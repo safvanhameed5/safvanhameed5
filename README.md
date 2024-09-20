@@ -11,13 +11,11 @@ Welcome to my GitHub page! 🎉
 | [LinkedIn](https://www.linkedin.com/in/safvanhameed) 🎁 | [Email](safvanhameed5@gmail.com) 📧 | [Instagram](https://www.instagram.com/_safvan.hameed7) 📸 |
 
 # Skills and Expertise
-## Software Development | Python Full Stack Development
+## Software Development | Python Full Stack Development | Reactjs
 
-# Languages
-| [Python](https://www.python.org/) 🐍 | [C](https://en.wikipedia.org/wiki/C_(programming_language)) 🅲 | [C++](https://en.wikipedia.org/wiki/C%2B%2B) 🅲🅲 |
+# Languages & Frameworks
+| [Python](https://www.python.org/) 🐍 | [C](https://en.wikipedia.org/wiki/C_(programming_language)) 🅲 | [C++](https://en.wikipedia.org/wiki/C%2B%2B) 🅲🅲 | [JavaScript](https://www.javascript.com/) 📜 | [Django](https://www.djangoproject.com/) 🌍 | [React](https://reactjs.org/) ⚛️ | [TypeScript](https://www.typescriptlang.org/) 📘 | [Django REST Framework](https://www.django-rest-framework.org/) 🔗 |
 
-## ML
-| **NumPy** 🧮 | **Pandas** 🐼 | **Matplotlib** | **TensorFlow** 🧠 | **OpenCV** 👀 | **PIL (Python Imaging Library)** |
 
 ## Full Stack Development
 | **Python**  | **Django**  | **MongoDB** | **HTML CSS**  | **ReactJs** 👀 | 
